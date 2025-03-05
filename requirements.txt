@@ -1,0 +1,30 @@
+# YFinance JSON Functions Requirements
+
+# web information handling
+requests>=2.28.0
+
+# Core data processing libraries
+pandas>=2.0.0
+numpy>=2.2.0
+
+# Stock data fetching
+yfinance>=0.2.31
+
+# Visualization
+plotly>=5.3.0
+matplotlib>=3.7.0
+
+# Web app
+streamlit>=1.10.0
+
+# Excel export
+xlsxwriter>=3.0.0
+
+# Type checking
+typing-extensions>=4.0.0
+
+# Date handling
+python-dateutil>=2.8.0
+
+# Optional: for better UI rendering
+streamlit-aggrid>=0.3.0

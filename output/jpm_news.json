@@ -1,0 +1,4 @@
+{
+  "error": "'int' object has no attribute 'strftime'",
+  "symbol": "JPM"
+}

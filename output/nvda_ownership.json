@@ -1,0 +1,1650 @@
+{
+  "symbol": "NVDA",
+  "major_holders": [],
+  "institutional_holders": [
+    {
+      "holder": "Vanguard Group Inc",
+      "shares": 2179410685,
+      "date_reported": "2024-12-31",
+      "percent_out": null,
+      "value": 248583577410
+    },
+    {
+      "holder": "Blackrock Inc.",
+      "shares": 1889664799,
+      "date_reported": "2024-12-31",
+      "percent_out": null,
+      "value": 215535162360
+    },
+    {
+      "holder": "FMR, LLC",
+      "shares": 1004376608,
+      "date_reported": "2024-12-31",
+      "percent_out": null,
+      "value": 114559193456
+    },
+    {
+      "holder": "State Street Corporation",
+      "shares": 967850472,
+      "date_reported": "2024-12-31",
+      "percent_out": null,
+      "value": 110393022473
+    },
+    {
+      "holder": "Geode Capital Management, LLC",
+      "shares": 555548278,
+      "date_reported": "2024-12-31",
+      "percent_out": null,
+      "value": 63365835232
+    },
+    {
+      "holder": "JP Morgan Chase & Company",
+      "shares": 413813386,
+      "date_reported": "2024-12-31",
+      "percent_out": null,
+      "value": 47199553796
+    },
+    {
+      "holder": "Price (T.Rowe) Associates Inc",
+      "shares": 411328951,
+      "date_reported": "2024-12-31",
+      "percent_out": null,
+      "value": 46916179146
+    },
+    {
+      "holder": "Morgan Stanley",
+      "shares": 349659685,
+      "date_reported": "2024-12-31",
+      "percent_out": null,
+      "value": 39882182817
+    },
+    {
+      "holder": "Norges Bank Investment Management",
+      "shares": 324041286,
+      "date_reported": "2024-12-31",
+      "percent_out": null,
+      "value": 36960148290
+    },
+    {
+      "holder": "Northern Trust Corporation",
+      "shares": 266454194,
+      "date_reported": "2024-12-31",
+      "percent_out": null,
+      "value": 30391764717
+    }
+  ],
+  "mutual_fund_holders": [
+    {
+      "holder": "Vanguard Total Stock Market Index Fund",
+      "shares": 740782994,
+      "date_reported": "2024-09-30",
+      "percent_out": null,
+      "value": 84493706487
+    },
+    {
+      "holder": "Vanguard 500 Index Fund",
+      "shares": 664004957,
+      "date_reported": "2024-12-31",
+      "percent_out": null,
+      "value": 75736403774
+    },
+    {
+      "holder": "SPDR S&P 500 ETF Trust",
+      "shares": 307163107,
+      "date_reported": "2024-12-31",
+      "percent_out": null,
+      "value": 35035023234
+    },
+    {
+      "holder": "Fidelity 500 Index Fund",
+      "shares": 304505345,
+      "date_reported": "2024-12-31",
+      "percent_out": null,
+      "value": 34731878907
+    },
+    {
+      "holder": "iShares Core S&P 500 ETF",
+      "shares": 287828195,
+      "date_reported": "2024-12-31",
+      "percent_out": null,
+      "value": 32829683218
+    },
+    {
+      "holder": "Vanguard Growth Index Fund",
+      "shares": 234107791,
+      "date_reported": "2024-12-31",
+      "percent_out": null,
+      "value": 26702334069
+    },
+    {
+      "holder": "Invesco ETF Tr-Invesco QQQ Tr, Series 1 ETF",
+      "shares": 201915272,
+      "date_reported": "2024-12-31",
+      "percent_out": null,
+      "value": 23030455431
+    },
+    {
+      "holder": "Vanguard Institutional Index Fund-Institutional Index Fund",
+      "shares": 154932335,
+      "date_reported": "2024-12-31",
+      "percent_out": null,
+      "value": 17671581751
+    },
+    {
+      "holder": "Vanguard Information Technology Index Fund",
+      "shares": 109353923,
+      "date_reported": "2024-11-30",
+      "percent_out": null,
+      "value": 12472908190
+    },
+    {
+      "holder": "Fidelity Contrafund Inc",
+      "shares": 96469250,
+      "date_reported": "2024-12-31",
+      "percent_out": null,
+      "value": 11003282419
+    }
+  ],
+  "insider_transactions": [
+    {
+      "insider": "PURI AJAY K",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 36695,
+      "value": 5544783,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "STEVENS MARK A",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 385000,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "COXE TENCH C",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 1000000,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "COXE TENCH C",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 1000000,
+      "value": 131263863,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "ROBERTSON DONALD F JR",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 4500,
+      "value": 608775,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "KRESS COLETTE M.",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 66670,
+      "value": 9027318,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "OCHOA ELLEN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 3169,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "DABIRI JOHN O",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 716,
+      "value": 101672,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "STEVENS MARK A",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 155000,
+      "value": 20502578,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "STEVENS MARK A",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 125000,
+      "value": 15325950,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "TETER TIMOTHY S",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 48324,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "STEVENS MARK A",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 40000,
+      "value": 4840356,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "STEVENS MARK A",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 165100,
+      "value": 20021429,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "COXE TENCH C",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 2000000,
+      "value": 235741095,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 1568000,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "ROBERTSON DONALD F JR",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 4500,
+      "value": 524293,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "KRESS COLETTE M.",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 66670,
+      "value": 7772851,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 240000,
+      "value": 28551919,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 240000,
+      "value": 26252485,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 240000,
+      "value": 25044854,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 240000,
+      "value": 25805490,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 240000,
+      "value": 27574820,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 240000,
+      "value": 24915914,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 240000,
+      "value": 25069567,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 240000,
+      "value": 24609476,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 240000,
+      "value": 27426748,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 240000,
+      "value": 26383025,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 240000,
+      "value": 27216126,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 240000,
+      "value": 28869762,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 240000,
+      "value": 28954933,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 240000,
+      "value": 28679816,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 240000,
+      "value": 30638085,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "STEVENS MARK A",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 156023,
+      "value": 20254063,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 240000,
+      "value": 31266275,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "PURI AJAY K",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 100110,
+      "value": 13023949,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "STEVENS MARK A",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 785000,
+      "value": 103998016,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 240000,
+      "value": 31864601,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 240000,
+      "value": 30688598,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 240000,
+      "value": 29581600,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 240000,
+      "value": 29738301,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "TETER TIMOTHY S",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 48359,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "BURGESS ROBERT KENNETH",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 2088,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "STEVENS MARK A",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 2088,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "JONES HARVEY C JR.",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 2088,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "SEAWELL A BROOKE",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 2088,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "COXE TENCH C",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 2088,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "LORA MELISSA",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 2088,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 240000,
+      "value": 29912143,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUDSON BEACH DAWN E",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 2088,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "DRELL PERSIS S",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 2088,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "SHAH AARTI S",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 2088,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "NEAL STEPHEN C.",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 2088,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "DABIRI JOHN O",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 2088,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 240000,
+      "value": 29310576,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "KRESS COLETTE M.",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 200000,
+      "value": 24430514,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 445000,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 240000,
+      "value": 31557278,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "ROBERTSON DONALD F JR",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 4500,
+      "value": 576751,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "KRESS COLETTE M.",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 100000,
+      "value": 12699088,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 240000,
+      "value": 31894854,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "DRELL PERSIS S",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 15000,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 240000,
+      "value": 31184783,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "STEVENS MARK A",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 470000,
+      "value": 58344021,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "COXE TENCH C",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 30000,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "COXE TENCH C",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 100000,
+      "value": 119457412,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "STEVENS MARK A",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 16670,
+      "value": 19988343,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "SHOQUIST DEBORA C",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 10425,
+      "value": 12517143,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "SHOQUIST DEBORA C",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 715,
+      "value": 874324,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "SHOQUIST DEBORA C",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 15000,
+      "value": 17273842,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "STEVENS MARK A",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 8900,
+      "value": 10138892,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "SHOQUIST DEBORA C",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 15000,
+      "value": 17046175,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "STEVENS MARK A",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 26939,
+      "value": 30748961,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUDSON BEACH DAWN E",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 5000,
+      "value": 5750150,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "SEAWELL A BROOKE",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 1438,
+      "value": 1607281,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "MCCAFFERY MICHAEL G",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 3879,
+      "value": 4355785,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "MCCAFFERY MICHAEL G",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 57,
+      "value": 65398,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUDSON BEACH DAWN E",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 20000,
+      "value": 21588245,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "DABIRI JOHN O",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 198,
+      "value": 206702,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "ROBERTSON DONALD F JR",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 1667,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "STEVENS MARK A",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 22700,
+      "value": 19975240,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "PURI AJAY K",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 45798,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "PERRY MARK L",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 7000,
+      "value": 6215259,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "STEVENS MARK A",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 11000,
+      "value": 9962150,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "DABIRI JOHN O",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 128,
+      "value": 120320,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "ROBERTSON DONALD F JR",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 450,
+      "value": 410229,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "TETER TIMOTHY S",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 14538,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "SHOQUIST DEBORA C",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 8608,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "PURI AJAY K",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 9302,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "KRESS COLETTE M.",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 9579,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "TETER TIMOTHY S",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 8608,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "STEVENS MARK A",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 21750,
+      "value": 19995508,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 206042,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "SHOQUIST DEBORA C",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 61002,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "PURI AJAY K",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 71517,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "KRESS COLETTE M.",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 74322,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "TETER TIMOTHY S",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 61002,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "COXE TENCH C",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 200000,
+      "value": 170020366,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "DRELL PERSIS S",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 5000,
+      "value": 4225640,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "STEVENS MARK A",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 12000,
+      "value": 10242502,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "STEVENS MARK A",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 15000,
+      "value": 11979400,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "PERRY MARK L",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 15000,
+      "value": 11946692,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "JONES HARVEY C JR.",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 65000,
+      "value": 53031712,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "MCCAFFERY MICHAEL G",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 8250,
+      "value": 5248448,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "SHOQUIST DEBORA C",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 137003,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "STEVENS MARK A",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 36000,
+      "value": 19690344,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "STEVENS MARK A",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 54148,
+      "value": 29527009,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "SHOQUIST DEBORA C",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 5676,
+      "value": 2838000,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "ROBERTSON DONALD F JR",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 450,
+      "value": 218079,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "SHOQUIST DEBORA C",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 20000,
+      "value": 10000860,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "STEVENS MARK A",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 10200,
+      "value": 5000042,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUDSON BEACH DAWN E",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 1000,
+      "value": 492525,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "TETER TIMOTHY S",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 11145,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "STEVENS MARK A",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 10400,
+      "value": 5008640,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 116000,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "SHOQUIST DEBORA C",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 15824,
+      "value": 7633761,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUDSON BEACH DAWN E",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 11000,
+      "value": 5255469,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "SHOQUIST DEBORA C",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 40000,
+      "value": 19199010,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "SHOQUIST DEBORA C",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 40000,
+      "value": 19199010,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "STEVENS MARK A",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 10280,
+      "value": 4966714,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "NEAL STEPHEN C.",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 1000,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "DABIRI JOHN O",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 218,
+      "value": 105728,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "DRELL PERSIS S",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 2300,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "DRELL PERSIS S",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 204,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 148434,
+      "value": 593736,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 29684,
+      "value": 13528345,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 29688,
+      "value": 13478507,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 29688,
+      "value": 118752,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 29688,
+      "value": 13417928,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 29688,
+      "value": 118752,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "SHOQUIST DEBORA C",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 10000,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 29688,
+      "value": 13329754,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 29688,
+      "value": 118752,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 148438,
+      "value": 593752,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 29688,
+      "value": 13605939,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 29688,
+      "value": 13999287,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 29688,
+      "value": 118752,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 59376,
+      "value": 28828766,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "HUANG JEN-HSUN",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 59376,
+      "value": 237504,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "STEVENS MARK A",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 52175,
+      "value": 25091708,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "MCCAFFERY MICHAEL G",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 3852,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "MCCAFFERY MICHAEL G",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 10132,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "KRESS COLETTE M.",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 4980,
+      "value": 2294476,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "LORA MELISSA",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 1177,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "JONES HARVEY C JR.",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 119724,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "TETER TIMOTHY S",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 5572,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "DABIRI JOHN O",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 283,
+      "value": 120142,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "BURGESS ROBERT KENNETH",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 650,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "PERRY MARK L",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 650,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "STEVENS MARK A",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 650,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    },
+    {
+      "insider": "JONES HARVEY C JR.",
+      "relation": null,
+      "transaction": "",
+      "date": null,
+      "shares": 650,
+      "value": 0,
+      "shares_total": null,
+      "sec_form": null
+    }
+  ]
+}

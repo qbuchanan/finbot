@@ -1,0 +1,57 @@
+{
+  "symbol": "AAPL",
+  "company_name": "Apple Inc.",
+  "sector": "Technology",
+  "industry": "Consumer Electronics",
+  "valuation_metrics": {
+    "current_price": 238.03,
+    "trailing_pe": 37.722664,
+    "forward_pe": 28.6438,
+    "peg_ratio": null,
+    "price_to_book": 53.634518,
+    "price_to_sales": null,
+    "enterprise_value_to_revenue": 9.144,
+    "enterprise_value_to_ebitda": 26.346,
+    "eps_ttm": 6.31,
+    "eps_forward": 8.31,
+    "earnings_growth": 0.101,
+    "revenue_growth": 0.04
+  },
+  "peers": {
+    "MSFT": {
+      "company_name": "Microsoft Corporation",
+      "current_price": 388.49,
+      "trailing_pe": 31.355124,
+      "forward_pe": 25.985952,
+      "peg_ratio": null,
+      "price_to_book": 9.542395,
+      "eps_ttm": 12.39,
+      "market_cap": 2951214792704
+    },
+    "GOOGL": {
+      "company_name": "Alphabet Inc.",
+      "current_price": 167.01,
+      "trailing_pe": 20.798256,
+      "forward_pe": 18.639507,
+      "peg_ratio": null,
+      "price_to_book": 6.2733827,
+      "eps_ttm": 8.03,
+      "market_cap": 2086372376576
+    },
+    "META": {
+      "company_name": "Meta Platforms, Inc.",
+      "current_price": 655.05,
+      "trailing_pe": 27.476929,
+      "forward_pe": 25.891304,
+      "peg_ratio": null,
+      "price_to_book": 9.0884495,
+      "eps_ttm": 23.84,
+      "market_cap": 1692989784064
+    }
+  },
+  "industry_averages": {
+    "trailing_pe": 29.338243249999998,
+    "forward_pe": 24.79014075,
+    "price_to_book": 19.6346863
+  }
+}

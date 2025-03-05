@@ -1,0 +1,114 @@
+{
+  "symbol": "T",
+  "company_name": "AT&T Inc.",
+  "sector": "Communication Services",
+  "industry": "Telecom Services",
+  "current_ratios": {
+    "debt_to_ebitda": 3.31321372554897,
+    "debt_to_ebit": 6.048084597579174,
+    "debt_to_net_income": 11.907613876764874,
+    "debt_to_operating_income": 6.048084597579174,
+    "debt_to_free_cash_flow": 7.883293323535768,
+    "debt_to_revenue": 1.1926496929113262,
+    "interest_coverage_ratio": 3.5691670365438672,
+    "debt_service_coverage_ratio": 6.515312916111851,
+    "net_debt_to_ebitda": 3.2368234173990054,
+    "net_debt_to_fcf": 7.701534084287876
+  },
+  "profitability_metrics": {
+    "revenue": 122336000000.0,
+    "gross_profit": 73115000000.0,
+    "operating_income": 24124000000.0,
+    "ebitda": 44037000000.0,
+    "ebit": 24124000000.0,
+    "net_income": 12253000000.0,
+    "free_cash_flow": 18508000000.0,
+    "interest_expense": 6759000000.0,
+    "operating_margin": 0.19719461156160084,
+    "profit_margin": 0.10015857964948993,
+    "fcf_margin": 0.15128825529688728
+  },
+  "debt_metrics": {
+    "total_debt": 145903992832,
+    "short_term_debt": null,
+    "long_term_debt": null,
+    "cash_and_equivalents": 3364000000,
+    "net_debt": 142539992832
+  },
+  "historical_ratios": {
+    "annual": [
+      {
+        "date": "2024-12-31",
+        "profitability": {
+          "net_income": 12253000000.0,
+          "ebitda": 44037000000.0,
+          "interest_expense": 6759000000.0,
+          "operating_income": 24124000000.0,
+          "ebit": 24124000000.0,
+          "revenue": 122336000000.0,
+          "free_cash_flow": 18508000000.0
+        },
+        "debt": {
+          "total_debt": 140923000000.0,
+          "long_term_debt": 118443000000.0,
+          "cash_and_equivalents": 3298000000.0,
+          "net_debt": 137625000000.0
+        },
+        "ratios": {
+          "debt_to_ebitda": 3.200104457615187,
+          "debt_to_net_income": 11.501101770994858,
+          "debt_to_free_cash_flow": 7.614166846768965,
+          "interest_coverage_ratio": 3.5691670365438672
+        }
+      },
+      {
+        "date": "2023-12-31",
+        "profitability": {
+          "net_income": 15623000000.0,
+          "ebitda": 45329000000.0,
+          "interest_expense": 6704000000.0,
+          "operating_income": 24654000000.0,
+          "ebit": 24654000000.0,
+          "revenue": 122428000000.0,
+          "free_cash_flow": 20461000000.0
+        },
+        "debt": {
+          "total_debt": 154899000000.0,
+          "long_term_debt": 127854000000.0,
+          "cash_and_equivalents": 6722000000.0,
+          "net_debt": 148177000000.0
+        },
+        "ratios": {
+          "debt_to_ebitda": 3.417216351563017,
+          "debt_to_net_income": 9.914805095052166,
+          "debt_to_free_cash_flow": 7.570451102096672,
+          "interest_coverage_ratio": 3.677505966587112
+        }
+      },
+      {
+        "date": "2022-12-31",
+        "profitability": {
+          "net_income": -6874000000.0,
+          "ebitda": 21035000000.0,
+          "interest_expense": 6108000000.0,
+          "operating_income": 22911000000.0,
+          "ebit": 22911000000.0,
+          "revenue": 120741000000.0,
+          "free_cash_flow": 12397000000.0
+        },
+        "debt": {
+          "total_debt": 154679000000.0,
+          "long_term_debt": 128423000000.0,
+          "cash_and_equivalents": 3701000000.0,
+          "net_debt": 150978000000.0
+        },
+        "ratios": {
+          "debt_to_ebitda": 7.353410981697172,
+          "debt_to_free_cash_flow": 12.477131564088086,
+          "interest_coverage_ratio": 3.7509823182711197
+        }
+      }
+    ],
+    "quarterly": []
+  }
+}
